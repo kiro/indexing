@@ -1,0 +1,2 @@
+Inspect the number of times words are used within a line in conjunction with other words. Create an index from word to the words that it's been used with. Make an interface (web or cli is fine) to look up a word of our choosing (the request) and receive a list of the words that most frequently appear along-side it, with the frequencies (the response). For example, if we use the following input: foo bar baz foo quux foo bar your system should provide output similar to the following, for an input of foo output: bar: 2 baz: 1 quux: 1
+
